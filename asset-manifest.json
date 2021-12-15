@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-nft/static/css/main.eccc1ae1.chunk.css",
-    "main.js": "/react-nft/static/js/main.788b316f.chunk.js",
-    "main.js.map": "/react-nft/static/js/main.788b316f.chunk.js.map",
+    "main.css": "/react-nft/static/css/main.f1a551e2.chunk.css",
+    "main.js": "/react-nft/static/js/main.65c3e918.chunk.js",
+    "main.js.map": "/react-nft/static/js/main.65c3e918.chunk.js.map",
     "runtime-main.js": "/react-nft/static/js/runtime-main.16b4f570.js",
     "runtime-main.js.map": "/react-nft/static/js/runtime-main.16b4f570.js.map",
-    "static/js/2.732e6ef0.chunk.js": "/react-nft/static/js/2.732e6ef0.chunk.js",
-    "static/js/2.732e6ef0.chunk.js.map": "/react-nft/static/js/2.732e6ef0.chunk.js.map",
+    "static/js/2.02088b13.chunk.js": "/react-nft/static/js/2.02088b13.chunk.js",
+    "static/js/2.02088b13.chunk.js.map": "/react-nft/static/js/2.02088b13.chunk.js.map",
     "index.html": "/react-nft/index.html",
-    "static/css/main.eccc1ae1.chunk.css.map": "/react-nft/static/css/main.eccc1ae1.chunk.css.map",
-    "static/js/2.732e6ef0.chunk.js.LICENSE.txt": "/react-nft/static/js/2.732e6ef0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/react-nft/static/media/Comfortaa.8d7e182e.ttf"
+    "static/css/main.f1a551e2.chunk.css.map": "/react-nft/static/css/main.f1a551e2.chunk.css.map",
+    "static/js/2.02088b13.chunk.js.LICENSE.txt": "/react-nft/static/js/2.02088b13.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-nft/static/media/Raleway.18e9b7b3.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.16b4f570.js",
-    "static/js/2.732e6ef0.chunk.js",
-    "static/css/main.eccc1ae1.chunk.css",
-    "static/js/main.788b316f.chunk.js"
+    "static/js/2.02088b13.chunk.js",
+    "static/css/main.f1a551e2.chunk.css",
+    "static/js/main.65c3e918.chunk.js"
   ]
 }
