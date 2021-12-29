@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-nft/static/css/main.7b5a3fa4.chunk.css",
-    "main.js": "/react-nft/static/js/main.88e96603.chunk.js",
-    "main.js.map": "/react-nft/static/js/main.88e96603.chunk.js.map",
-    "runtime-main.js": "/react-nft/static/js/runtime-main.16b4f570.js",
-    "runtime-main.js.map": "/react-nft/static/js/runtime-main.16b4f570.js.map",
-    "static/js/2.461fa991.chunk.js": "/react-nft/static/js/2.461fa991.chunk.js",
-    "static/js/2.461fa991.chunk.js.map": "/react-nft/static/js/2.461fa991.chunk.js.map",
-    "index.html": "/react-nft/index.html",
-    "static/css/main.7b5a3fa4.chunk.css.map": "/react-nft/static/css/main.7b5a3fa4.chunk.css.map",
-    "static/js/2.461fa991.chunk.js.LICENSE.txt": "/react-nft/static/js/2.461fa991.chunk.js.LICENSE.txt",
-    "static/media/1.49fe1240.mp4": "/react-nft/static/media/1.49fe1240.mp4",
-    "static/media/2.ae935892.mp4": "/react-nft/static/media/2.ae935892.mp4",
-    "static/media/3.8afade60.mp4": "/react-nft/static/media/3.8afade60.mp4",
-    "static/media/App.css": "/react-nft/static/media/why.da055be7.png"
+    "main.css": "/static/css/main.c874ae5b.chunk.css",
+    "main.js": "/static/js/main.88e96603.chunk.js",
+    "main.js.map": "/static/js/main.88e96603.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.70ff0f6c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.70ff0f6c.js.map",
+    "static/js/2.461fa991.chunk.js": "/static/js/2.461fa991.chunk.js",
+    "static/js/2.461fa991.chunk.js.map": "/static/js/2.461fa991.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c874ae5b.chunk.css.map": "/static/css/main.c874ae5b.chunk.css.map",
+    "static/js/2.461fa991.chunk.js.LICENSE.txt": "/static/js/2.461fa991.chunk.js.LICENSE.txt",
+    "static/media/1.49fe1240.mp4": "/static/media/1.49fe1240.mp4",
+    "static/media/2.ae935892.mp4": "/static/media/2.ae935892.mp4",
+    "static/media/3.8afade60.mp4": "/static/media/3.8afade60.mp4",
+    "static/media/App.css": "/static/media/why.da055be7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.16b4f570.js",
+    "static/js/runtime-main.70ff0f6c.js",
     "static/js/2.461fa991.chunk.js",
-    "static/css/main.7b5a3fa4.chunk.css",
+    "static/css/main.c874ae5b.chunk.css",
     "static/js/main.88e96603.chunk.js"
   ]
 }
